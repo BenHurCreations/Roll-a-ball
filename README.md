@@ -19,13 +19,16 @@ The faster you move, the higher your score is!
 # Implemented Knowledge
 1. C# - functionality & control 
 <img src="https://github.com/BenHurCreations/Unity/blob/main/Images/C-Sharp.png" alt="C#" width="100" height="50"/>
+
 2. Unity - environment, lightning & camera settings
 3. Input Actions system - player moves
 
 # Build Instructions
 - Download & open with Unity 
 <img src="https://github.com/BenHurCreations/Unity/blob/main/Images/unity.jpg" alt="Unity" width="100" height="50"/>
+
 - Modify environment & colors (optional)
 - Build for desktop
 
+<br/><br/>
 Link to demo- https://youtu.be/di3b2IgFO7M
