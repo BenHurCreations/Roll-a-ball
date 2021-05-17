@@ -6,7 +6,7 @@ Roll-a-ball is a desktop game built with unity engine.
 # The game 
 Roll the ball to collect the relevant objects on the scene.
 The faster you move, the higher your score is!
-![The game](http://url/to/img.png)
+<img src="https://github.com/BenHurCreations/Unity/blob/main/Images/Roll-a-ball.png" alt="The Game" width="500" height="500"/>
 
 # Main Features
 1.  Moving the player with player controller script   **(C#)**
@@ -20,12 +20,12 @@ The faster you move, the higher your score is!
 1. C# - functionality & control
 2. Unity - environment, lightning & camera settings
 3. Input Actions system - player moves
-![C#](https://github.com/BenHurCreations/Unity/blob/main/Images/C-Sharp.png)
+<img src="https://github.com/BenHurCreations/Unity/blob/main/Images/C-Sharp.png" alt="C#" width="50" height="50"/>
 
 # Build Instructions
 - Download & open with Unity
 - Modify environment & colors (optional)
 - Build for desktop
-![Unity](http://url/to/img.png)
+<img src="https://github.com/BenHurCreations/Unity/blob/main/Images/unity.jpg" alt="Unity" width="100" height="50"/>
 
 Link to demo- https://youtu.be/di3b2IgFO7M
