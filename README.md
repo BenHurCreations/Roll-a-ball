@@ -20,7 +20,7 @@ The faster you move, the higher your score is!
 1. C# - functionality & control
 2. Unity - environment, lightning & camera settings
 3. Input Actions system - player moves
-![C#](http://url/to/img.png)
+![C#](https://github.com/BenHurCreations/Unity/blob/main/Images/C-Sharp.png)
 
 # Build Instructions
 - Download & open with Unity
